@@ -2,6 +2,11 @@ Code
 ================
 Nov 20, 2020
 
+# GOAL
+
+Causal analysis of county-level COVID lockdowns impact through pairwise
+matching and difference in difference
+
 # Reading in libraries and files
 
 ``` r
